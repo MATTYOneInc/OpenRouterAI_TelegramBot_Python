@@ -38,21 +38,17 @@
 ```bash
 git clone https://github.com/MATTYOneInc/OpenRouterAI_TelegramBot_Python.git
 cd OpenRouterAI_TelegramBot_Python
-pip install -r requirements.txt```
+pip install -r requirements.txt
 
 ### 2. Установка системных зависимостей:
 
 **Установите Tesseract OCR с официального сайта:**
-```bash
-https://github.com/UB-Mannheim/tesseract/wiki```
+
+https://github.com/UB-Mannheim/tesseract/wiki
 
 **Установите FFmpeg Builds с официального сайта**
 **PS: Можно установить системную переменную PATH, или просто положить файл "ffmpeg.exe" рядом с ботом**
-```bashhttps://www.gyan.dev/ffmpeg/builds```
+https://www.gyan.dev/ffmpeg/builds
 
-<div align="center">
-Сделано с ❤️ и Python
-
-Если проект был полезен, не забудьте поставить ⭐!
-
-</div> 
+### 3. Запуск бота:
+python bot.py
